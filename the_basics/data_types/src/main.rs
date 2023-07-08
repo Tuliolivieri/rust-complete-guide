@@ -5,7 +5,7 @@ fn main() {
     let y: u8 = 10;
     println!("{}", y);
 
-    let decimal = 02_55;
+    let decimal: i32 = 02_55;
     let hex = 0xff;
     let octal = 0o377;
     let binary = 0b1111_1111;
